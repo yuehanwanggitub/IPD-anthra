@@ -2,6 +2,8 @@
 
 <!-- Please add a brief introduction to explain what the project is about    -->
 
+Here is a line.
+
 ## Where do I start?
 
 You can load this project in RStudio by opening the file called 'IPD-anthra.Rproj'.
